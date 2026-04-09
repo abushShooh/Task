@@ -70,30 +70,30 @@ namespace Task1
             // System.Console.WriteLine($"Max index: {maxINdex}");
 
             // task4
-            System.Console.Write("Write the length of array: ");
-            int n =int.Parse(Console.ReadLine());
-            int[] arr1=new int[n];
-            for(int i = 0; i < n; i++)
-            {
-                System.Console.Write("Write the element of array: ");
-                arr1[i]=int.Parse(Console.ReadLine());
-            }
+            // System.Console.Write("Write the length of array: ");
+            // int n =int.Parse(Console.ReadLine());
+            // int[] arr1=new int[n];
+            // for(int i = 0; i < n; i++)
+            // {
+            //     System.Console.Write("Write the element of array: ");
+            //     arr1[i]=int.Parse(Console.ReadLine());
+            // }
 
-            for(int i = 0; i < n; i++)
-            {
-                int count=0;
-                for(int b = 0; b < n; b++)
-                {
-                    if(arr1[i] == arr1[b])
-                    {
-                        count++;
-                    }
-                }
-                if (count == 1)
-                {
-                    System.Console.WriteLine($"Уникальный элемент: {arr1[i]}");
-                }
-            }
+            // for(int i = 0; i < n; i++)
+            // {
+            //     int count=0;
+            //     for(int b = 0; b < n; b++)
+            //     {
+            //         if(arr1[i] == arr1[b])
+            //         {
+            //             count++;
+            //         }
+            //     }
+            //     if (count == 1)
+            //     {
+            //         System.Console.WriteLine($"Уникальный элемент: {arr1[i]}");
+            //     }
+            // }
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boss\\Desktop\\allTask\\HomeWork1\\HomeWork1.csproj": {}
+    "C:\\Users\\Boss\\Desktop\\allTask\\Home\\HomeWork1\\HomeWork1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boss\\Desktop\\allTask\\HomeWork1\\HomeWork1.csproj": {
+    "C:\\Users\\Boss\\Desktop\\allTask\\Home\\HomeWork1\\HomeWork1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boss\\Desktop\\allTask\\HomeWork1\\HomeWork1.csproj",
+        "projectUniqueName": "C:\\Users\\Boss\\Desktop\\allTask\\Home\\HomeWork1\\HomeWork1.csproj",
         "projectName": "HomeWork1",
-        "projectPath": "C:\\Users\\Boss\\Desktop\\allTask\\HomeWork1\\HomeWork1.csproj",
+        "projectPath": "C:\\Users\\Boss\\Desktop\\allTask\\Home\\HomeWork1\\HomeWork1.csproj",
         "packagesPath": "C:\\Users\\Boss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boss\\Desktop\\allTask\\HomeWork1\\obj\\",
+        "outputPath": "C:\\Users\\Boss\\Desktop\\allTask\\Home\\HomeWork1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Boss\\AppData\\Roaming\\NuGet\\NuGet.Config"
