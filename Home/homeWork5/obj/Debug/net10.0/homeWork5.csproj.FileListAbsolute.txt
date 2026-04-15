@@ -1,0 +1,15 @@
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\bin\Debug\net10.0\homeWork5.exe
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\bin\Debug\net10.0\homeWork5.deps.json
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\bin\Debug\net10.0\homeWork5.runtimeconfig.json
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\bin\Debug\net10.0\homeWork5.dll
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\bin\Debug\net10.0\homeWork5.pdb
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.AssemblyInfo.cs
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.sourcelink.json
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.dll
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\refint\homeWork5.dll
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.pdb
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\homeWork5.genruntimeconfig.cache
+C:\Users\Boss\Desktop\allTask\Home\homeWork5\obj\Debug\net10.0\ref\homeWork5.dll
