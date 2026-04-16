@@ -1,0 +1,15 @@
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\bin\Debug\net10.0\homeWork6.exe
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\bin\Debug\net10.0\homeWork6.deps.json
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\bin\Debug\net10.0\homeWork6.runtimeconfig.json
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\bin\Debug\net10.0\homeWork6.dll
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\bin\Debug\net10.0\homeWork6.pdb
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.AssemblyInfo.cs
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.sourcelink.json
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.dll
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\refint\homeWork6.dll
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.pdb
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\homeWork6.genruntimeconfig.cache
+C:\Users\Boss\Desktop\allTask\Home\homeWork6\obj\Debug\net10.0\ref\homeWork6.dll
